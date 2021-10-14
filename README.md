@@ -1,3 +1,4 @@
+# 光线追踪 三角形 demo
 # DirectXRaytracingHelloTriangle
 # 根据NVIDIA官方[教程](https://developer.nvidia.com/rtx/raytracing/dxr/dx12-raytracing-tutorial-part-1)实现的demo
 官方也提供了完整的[实现](https://developer.nvidia.com/rtx/raytracing/dxr/tutorial/Files/DXRTutorial_Extra.zip)，只不过下载下来不能直接运行，
